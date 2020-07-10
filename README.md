@@ -1,2 +1,2 @@
 # automata
-Collection of Automating Scripts for Linux/Windows
+Collection of Automation Scripts for Linux/Windows
