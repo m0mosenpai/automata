@@ -1,5 +1,5 @@
 # automata
-Collection of Automation Scripts for Linux/Windows
+A Personal Collection of Automation Scripts for Linux/Windows
 
 ## Anime
 ### media_detect.py
