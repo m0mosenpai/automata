@@ -24,6 +24,3 @@ Mounts a Bitlocker encrypted Windows Partition. Requires Bitlocker key to be har
 
 ### pip_upgrade_all.py
 Upgrade all Python packages together.
-
-
-https://bit.ly/2ShY9bB
